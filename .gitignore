@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Mac file system internal
+.DS_Store
+
+# Saved Model
+model.pt
+
+# Data Directory
+data/
